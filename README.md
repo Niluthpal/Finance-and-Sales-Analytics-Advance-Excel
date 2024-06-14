@@ -22,11 +22,11 @@ Sales Reports: These reports provide detailed insights into the company's sales 
 
    ![1](https://github.com/Niluthpal/Finance-and-Sales-Analytics-Advance-Excel/assets/110477630/03acd664-e3b2-4ab8-a93d-01572afb76c0)
 
-   ![2](https://github.com/Niluthpal/Finance-and-Sales-Analytics-Advance-Excel/assets/110477630/ebe33a6b-4e4c-4d38-84b7-23cdffe0f60c)
+   ![2](https://github.com/Niluthpal/Finance-and-Sales-Analytics-Advance-Excel/assets/110477630/087b4851-e89d-4727-b27f-62f37c25b5ed)
 
    ![3](https://github.com/Niluthpal/Finance-and-Sales-Analytics-Advance-Excel/assets/110477630/c923116d-6b9f-458f-8f32-03feed923ff0)
 
-   ![4](https://github.com/Niluthpal/Finance-and-Sales-Analytics-Advance-Excel/assets/110477630/ae595393-ea89-4235-8d66-01a8d9117ab0)
+   ![4](https://github.com/Niluthpal/Finance-and-Sales-Analytics-Advance-Excel/assets/110477630/033cde2c-fb03-4509-8f43-41f9fed63394)
 
    ![5](https://github.com/Niluthpal/Finance-and-Sales-Analytics-Advance-Excel/assets/110477630/0d5c4461-ebe5-48db-8040-3fc2ff4b0d10)
 
